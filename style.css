@@ -1,0 +1,33 @@
+/*ФОН*/
+.ym-dark-theme {
+    --ym-background-color-primary-enabled-basic: #000000;
+}
+
+/*Плеер*/
+section.PlayerBar_root__cXUnU {
+	background: 0;
+	border-width: 0;
+}
+
+/*БАЗА*/
+.DefaultLayout_content__md70Z {
+	background: 0;
+	border-width: 0;
+}
+
+/*Вайб анимация*/
+.VibeAnimation_root_visible__S7kXl {
+	display: none;
+}
+
+/*Главная страница*/
+.MainPage_vibe__XEBbh {
+	max-height: 300px;
+	min-height: 300px;
+	top: -30px;
+}
+
+/*Фон в полноэкранном плеере*/
+.FullscreenPlayerDesktop_content__bl_7V {
+	background: #000;
+}
