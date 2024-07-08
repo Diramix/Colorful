@@ -1,4 +1,5 @@
 ![Снимок экрана 2024-07-03 132655](https://github.com/Diramix/Colorful/assets/79011730/db921bf6-0dff-4a34-bd50-9169338b7899)
+![License](https://img.shields.io/github/license/Diramix/Spotify-Music.svg?style=for-the-badge)
 
 ### Powered by
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40px" width="40px" /></a>
