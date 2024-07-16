@@ -3,6 +3,20 @@
     --ym-background-color-primary-enabled-basic: #000000;
 }
 
+.YMDRPC,
+.PSB {
+	visibility: hidden;
+}
+
+.YMDRPC:after,
+.PSB:after {
+	position: absolute;
+	visibility: visible;
+	right: 0;
+	content: "Colorful";
+	color: rgb(255 255 255 / 100%)
+}
+
 /*Плеер*/
 section.PlayerBar_root__cXUnU {
 	background: 0;
@@ -29,5 +43,60 @@ section.PlayerBar_root__cXUnU {
 
 /*Фон в полноэкранном плеере*/
 .FullscreenPlayerDesktop_content__bl_7V {
-	background: #000;
+}
+
+.NavbarDesktop_logo__Z4jGx,
+.NavbarDesktop_title_animate__XLxaQ,
+.o_v2ds2BaqtzAsRuCVjw,
+.nSU6fV9y80WrZEfafvww,
+.ArtistCard_titleLink__G8Puz,
+.AlbumCard_titleLink__u_WLG,
+.Pin_title__Jw5WW,
+.Tab_title__hAYZk,
+.YjRa1ZjM_lXFlrfS7jcu,
+.PageHeaderTitle_title__caKyB,
+.BlockHeader_heading__4iqvS,
+.nSU6fV9y80WrZEfafvww,
+.Tab_title__hAYZk,
+._3_Mxw7Si7j2g4kWjlpR,
+.NewReleaseCard_title__BRr4Y,
+.Meta_title__GGBnH,
+.UserProfile_userName__PTRuJ {
+	filter: brightness(0) invert(1);
+}
+
+.CollectionPage_collectionColor__M5l1f:before {
+	content: "У вас нет";
+	position: absolute;
+	visibility: visible;
+	left: 0px;
+	color: rgb(255, 255, 255, 50%);
+}
+
+.CollectionPage_collectionColor__M5l1f:after {
+	content: "прав";
+	position: absolute;
+	visibility: visible;
+	left: 62px;
+	color: rgb(255, 255, 255);
+}
+
+.CollectionPage_description__A3dny {
+	visibility: hidden;
+}
+
+.SplashScreen_video__wFSy5 {
+	filter: grayscale(100%);
+}
+
+.xuw9gha2dQiGgdRcHNgU {
+	visibility: hidden;
+}
+
+.xuw9gha2dQiGgdRcHNgU:after {
+	content: "Чиназес";
+	visibility: visible;
+	position: absolute;
+	left: 0;
+	top: 0;
 }
