@@ -41,10 +41,6 @@ section.PlayerBar_root__cXUnU {
 	top: -30px;
 }
 
-/*Фон в полноэкранном плеере*/
-.FullscreenPlayerDesktop_content__bl_7V {
-}
-
 .NavbarDesktop_logo__Z4jGx,
 .NavbarDesktop_title_animate__XLxaQ,
 .o_v2ds2BaqtzAsRuCVjw,
@@ -61,7 +57,9 @@ section.PlayerBar_root__cXUnU {
 ._3_Mxw7Si7j2g4kWjlpR,
 .NewReleaseCard_title__BRr4Y,
 .Meta_title__GGBnH,
-.UserProfile_userName__PTRuJ {
+.UserProfile_userName__PTRuJ,
+.SyncLyricsLine_root__r62BN,
+.ChangeTimecode_slider__P4qmT:before {
 	filter: brightness(0) invert(1);
 }
 
@@ -99,4 +97,17 @@ section.PlayerBar_root__cXUnU {
 	position: absolute;
 	left: 0;
 	top: 0;
+}
+
+/*Тайтлбар*/
+.TitleBar_root__QjdOZ {
+    position: fixed;
+    z-index: 9999;
+}
+
+/* ONLY background: color; */
+.SyncLyrics_content__lbkWP:after,
+.SyncLyrics_content__lbkWP:before,
+.SyncLyrics_root__6KZg4 {
+    background: #000;
 }
