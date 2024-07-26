@@ -60,20 +60,21 @@ section.PlayerBar_root__cXUnU {
 	filter: brightness(0) invert(1);
 }
 
-.CollectionPage_collectionColor__M5l1f:before {
-	content: "У вас нет";
-	position: absolute;
+.CollectionPage_description__A3dny:before {
 	visibility: visible;
-	left: 0px;
-	color: rgb(255, 255, 255, 50%);
+	position: relative;
+	content: "У вас нет";
+	left: 0;
+	top: 0;
 }
 
-.CollectionPage_collectionColor__M5l1f:after {
-	content: "прав";
-	position: absolute;
+.CollectionPage_description__A3dny:after {
 	visibility: visible;
-	left: 62px;
-	color: rgb(255, 255, 255);
+	position: relative;
+	content: "прав";
+	color: #E6E6E6;
+	left: -169px;
+	top: 0;
 }
 
 .CollectionPage_description__A3dny {
