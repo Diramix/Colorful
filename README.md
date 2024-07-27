@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8118c985-28b2-427e-b211-c014171073f7)
+![изображение](https://github.com/user-attachments/assets/37559deb-4897-4b5b-8f08-73aba42ed10e)
 ![License](https://img.shields.io/github/license/Diramix/Spotify-Music.svg?style=for-the-badge)
 
 ### Powered by
