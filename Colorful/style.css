@@ -54,24 +54,41 @@ section.PlayerBar_root__cXUnU {
 .Meta_title__GGBnH,
 .UserProfile_userName__PTRuJ,
 .SyncLyricsLine_root__r62BN,
-.ChangeTimecode_slider__P4qmT:before {
+.ChangeTimecode_slider__P4qmT:before,
+.QYgjNkDJ7XdqE28ipieh,
+.UwnL5AJBMMAp6NwMDdZk {
 	filter: brightness(0) invert(1);
+}
+
+/*Only color: #color;*/
+.Meta_artistCaption__JESZi,
+.BlockHeader_description__hAk9D,
+.ChangeVolume_icon__5Zv2a,
+.Tab_subtitle__fLp9S,
+.LikesAndHistoryItem_subtitle__ghuKi,
+.NewReleaseCard_type__1LjSl,
+.NewReleaseCard_date__blYRu,
+.ControlsBar_contextMenuWrapper__NHkn_,
+.PageHeaderPlaylistMeta_updatedText__FSo_0,
+.PageHeaderBase_entityName__9Sj_Q,
+[data-test-id="SOUND_QUALITY_BUTTON"],
+[data-test-id="LIKE_BUTTON"],
+[data-test-id="SEPARATED_ARTIST_TITLE"],
+.PageHeaderAlbumMeta_artistLabel__2WZSM {
+	color: #fff;
+}
+
+.Meta_artistCaption__JESZi:hover,
+[data-test-id="SEPARATED_ARTIST_TITLE"]:hover {
+	text-decoration: underline;
 }
 
 .CollectionPage_description__A3dny:before {
 	visibility: visible;
 	position: relative;
-	content: "У вас нет";
+	content: "У вас нет прав";
+	color: #fff;
 	left: 0;
-	top: 0;
-}
-
-.CollectionPage_description__A3dny:after {
-	visibility: visible;
-	position: relative;
-	content: "прав";
-	color: #E6E6E6;
-	left: -169px;
 	top: 0;
 }
 
