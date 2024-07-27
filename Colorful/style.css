@@ -3,13 +3,11 @@
     --ym-background-color-primary-enabled-basic: #000000;
 }
 
-.YMDRPC,
-.PSB {
+body > div > p {
 	visibility: hidden;
 }
 
-.YMDRPC:after,
-.PSB:after {
+body > div > p:after {
 	position: absolute;
 	visibility: visible;
 	right: 0;
