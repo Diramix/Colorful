@@ -121,6 +121,17 @@ section.PlayerBar_root__cXUnU {
 /* ONLY background: color; */
 .SyncLyrics_content__lbkWP:after,
 .SyncLyrics_content__lbkWP:before,
-.SyncLyrics_root__6KZg4 {
+.SyncLyrics_root__6KZg4,
+.FullscreenPlayerDesktop_modalContent__Zs_LC {
     background: #000;
+}
+
+/*Фуллскрин импортент*/
+.FullscreenPlayerDesktop_important__dGfiL {
+	border-width: 0;
+}
+
+/*Края слайдера*/
+.ChangeTimecode_slider__P4qmT {
+	--slider-thumb-box-shadow-color: #000;
 }
