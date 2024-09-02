@@ -24,8 +24,8 @@
 ## Установка
 1. Сначала вам нужно скачать мод:
    
-    [YMusic-DRPC](https://github.com/PulseSync-Official/YMusic-DRPC)
-2. Установите его по инструкции репазитория «PulseSync» или выпросите установщик у Дирамикса.
+    [YMusic-DRPC](https://github.com/PulseSync-LLC/YMusic-DRPC)
+2. Установите его по инструкции репазитория «PulseSync» или скачайте готовую сборку под Windows из [releases](https://github.com/PulseSync-LLC/YMusic-DRPC/releases)
 3. Теперь качаем [тему](https://github.com/Diramix/Colorful/archive/refs/heads/main.zip).
 4. После установки запускаем программу и нажимаем на кнопку «Директория со стилями», кидаете туда ПАПКУ С ТЕМОЙ.
 5. И выберете тему в приложении мода.
