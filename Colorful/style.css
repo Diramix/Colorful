@@ -22,7 +22,7 @@ section.PlayerBar_root__cXUnU {
 }
 
 /*БАЗА*/
-.DefaultLayout_content__md70Z {
+.Content_main__8_wIa {
 	background: 0;
 	border-width: 0;
 }
@@ -134,4 +134,11 @@ section.PlayerBar_root__cXUnU {
 /*Края слайдера*/
 .ChangeTimecode_slider__P4qmT {
 	--slider-thumb-box-shadow-color: #000;
+}
+
+.QualitySettingsContextMenu_root_withNewQuality__jPTb8 {
+	background: #000;
+	border-style: solid;
+	border-color: #fff1;
+	border-width: 2px;
 }
