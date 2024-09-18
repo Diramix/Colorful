@@ -1,5 +1,6 @@
 /*ФОН*/
-.ym-dark-theme {
+.ym-dark-theme,
+.ym-light-theme {
     --ym-background-color-primary-enabled-basic: #000000;
 }
 
