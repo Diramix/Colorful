@@ -1,7 +1,10 @@
 /*ФОН*/
 .ym-dark-theme,
 .ym-light-theme {
-    --ym-background-color-primary-enabled-basic: #000000;
+    --ym-background-color-primary-enabled-basic: #000;
+    --ym-controls-color-secondary-outline-selected: #000;
+    --ym-controls-color-secondary-card-enabled: #0009;
+    --ym-controls-color-secondary-card-hovered: #000;
 }
 
 body > div > p {
@@ -123,7 +126,10 @@ section.PlayerBar_root__cXUnU {
 .SyncLyrics_content__lbkWP:after,
 .SyncLyrics_content__lbkWP:before,
 .SyncLyrics_root__6KZg4,
-.FullscreenPlayerDesktop_modalContent__Zs_LC {
+.FullscreenPlayerDesktop_modalContent__Zs_LC,
+[data-test-id="TRAILER_MODAL"],
+.ReleaseNotesModal_root__RSw1p,
+.VibeSettings_root__ufZlV {
     background: #000;
 }
 
@@ -137,7 +143,7 @@ section.PlayerBar_root__cXUnU {
 	--slider-thumb-box-shadow-color: #000;
 }
 
-.QualitySettingsContextMenu_root_withNewQuality__jPTb8 {
+[data-test-id="QUALITY_SETTINGS_CONTEXT_MENU"] {
 	background: #000;
 	border-style: solid;
 	border-color: #fff1;
