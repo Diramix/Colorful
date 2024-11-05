@@ -1,0 +1,11 @@
+{
+  "name": "Colorful II",
+  "image": "image.png",
+  "banner": "banner.png",
+  "author": "Diramix",
+  "description": "The Big Black II",
+  "version": "2.0.0",
+  "css": "style.css",
+  "script": "script.js",
+  "tags": ["colors", "simple"]
+}
