@@ -1,4 +1,5 @@
-![изображение](https://github.com/user-attachments/assets/37559deb-4897-4b5b-8f08-73aba42ed10e)
+![image](https://github.com/user-attachments/assets/2bdf053a-0ee2-44da-8fce-ad5adedc1764)
+![image](https://github.com/user-attachments/assets/2d60cb63-f2f8-423c-892f-9530779b364a)
 ![License](https://img.shields.io/github/license/Diramix/Spotify-Music.svg?style=for-the-badge)
 
 ### Powered by
@@ -19,10 +20,8 @@
 </p>
 
 ## Установка
-1. Сначала вам нужно скачать мод:
-   
-    [YMusic-DRPC](https://github.com/PulseSync-LLC/YMusic-DRPC)
-2. Установите его по инструкции репазитория «PulseSync» или скачайте готовую сборку под Windows из [releases](https://github.com/PulseSync-LLC/YMusic-DRPC/releases)
+1. Сначала вам нужно скачать мод: [YMusic-DRPC](https://github.com/PulseSync-LLC/YMusic-DRPC)
+2. Установите его по инструкции репазитория «PulseSync» или скачайте готовую сборку под Windows из [releases](https://github.com/PulseSync-LLC/YMusic-DRPC/releases).
 3. Теперь качаем [тему](https://github.com/Diramix/Colorful/archive/refs/heads/main.zip).
 4. После установки запускаем программу и нажимаем на кнопку «Директория со стилями», кидаете туда ПАПКУ С ТЕМОЙ.
 5. И выберете тему в приложении мода.
