@@ -121,4 +121,8 @@ body > div > p:after {
 .SM_Artist {
     color: #fff;
 }
+
+.SM_Title_Container {
+    box-shadow: 0 5px 20px #000;
+}
 /*--------------------------------------------*/
