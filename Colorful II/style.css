@@ -60,6 +60,18 @@ body > div > p:after {
 }
 /*--------------------------------------------*/
 
+/*Табы - Tabs*/
+/*--------------------------------------------*/
+.PlaylistFiltersTabs_filter__6P4TS {
+    background: 0;
+    border-width: 0;
+}
+
+.PlaylistFiltersTabs_filter__6P4TS[aria-selected="true"] {
+    background: #fff2;
+}
+/*--------------------------------------------*/
+
 /*Настройки звука*/
 /*--------------------------------------------*/
 [data-test-id="EQUALIZER_TOGGLE"] {
