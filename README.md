@@ -10,11 +10,6 @@
 > [!NOTE]
 > Для установки Colorful II в [Spotify Music! II](https://github.com/Diramix/Spotify-Music), вам нужно скопировать только код из файла style.css темы Colorful II и втавить его в style.css темы Spotify Music! II.
 
-## Стол контента
-- [Ссылки](#Ссылки)
-- [Установка](#Установка)
-- [Контакты](#Контакты)
-
 ## Донат
 <p>
     <a href="https://boosty.to/diramix">
