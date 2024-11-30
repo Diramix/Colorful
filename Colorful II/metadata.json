@@ -1,11 +1,11 @@
 {
-  "name": "Spotify Music! II",
+  "name": "Colorful II",
   "image": "image.png",
   "banner": "banner.png",
   "author": "Diramix",
-  "description": "Spotify Premium",
-  "version": "2.0.9",
+  "description": "The Big Black II",
+  "version": "2.1.2",
   "css": "style.css",
   "script": "script.js",
-  "tags": ["Spotify"]
+  "tags": ["colors", "simple"]
 }
