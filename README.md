@@ -8,7 +8,7 @@
 # Colorful - Тема для Яндекс Музыки Beta
 
 > [!NOTE]
-> Для установки Colorful II в [Spotify Music! II](https://github.com/Diramix/Spotify-Music), вам нужно скопировать только код из файла style.css темы Colorful II и втавить его в style.css темы Spotify Music! II.
+> Для установки Colorful II в [Spotify Music! II](https://github.com/Diramix/Spotify-Music), вам нужно активировать данную опцию в настройках темы Spotify Music! II в PulseSync. Копировать код уже не надо.
 
 ## Донат
 <p>
