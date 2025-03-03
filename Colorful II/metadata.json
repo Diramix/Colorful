@@ -2,9 +2,10 @@
   "name": "Colorful II",
   "image": "image.png",
   "banner": "banner.png",
-  "author": "Diramix",
+  "author": ["diram1x"],
+  "type": "theme",
   "description": "The Big Black II",
-  "version": "2.1.3",
+  "version": "2.1.4",
   "css": "style.css",
   "script": "script.js",
   "tags": ["colors", "simple"]
