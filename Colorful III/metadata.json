@@ -1,0 +1,12 @@
+{
+    "name": "Colorful III",
+    "image": "image.png",
+    "banner": "banner.png",
+    "author": ["Diramix"],
+    "type": "theme",
+    "description": "The Big Black III",
+    "version": "3.0.0",
+    "css": "style.css",
+    "script": "script.js",
+    "tags": ["colors", "simple"]
+}
